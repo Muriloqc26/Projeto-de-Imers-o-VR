@@ -689,12 +689,12 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 47942
+      m_SelectedIDs: []
       m_LastClickedID:
-        m_Data: 47942
+        m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1292
+      - m_Data: -1322
+      - m_Data: 47974
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1064,7 +1064,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: overlay-toolbar__top
-      displayed: 1
+      displayed: 0
       id: Brush Attributes
       index: 0
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -1106,7 +1106,7 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: overlay-toolbar__left
-      displayed: 1
+      displayed: 0
       id: Terrain Tools
       index: 0
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
@@ -1120,12 +1120,12 @@ MonoBehaviour:
       sizeOverridden: 0
     - dockPosition: 0
       containerId: overlay-toolbar__left
-      displayed: 1
+      displayed: 0
       id: Brush Masks
       index: 1
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
-      collapsed: 1
+      collapsed: 0
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -1259,9 +1259,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 844.08997, y: 105.28862, z: 221.7925}
+    m_Target: {x: 895.8363, y: 102.94339, z: 225.79962}
     speed: 2
-    m_Value: {x: 844.08997, y: 105.28862, z: 221.7925}
+    m_Value: {x: 895.8363, y: 102.94339, z: 225.79962}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1299,7 +1299,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -1307,13 +1307,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.015677784, y: -0.35384786, z: -0.020120174, w: -0.93454427}
+    m_Target: {x: -0.18277912, y: -0.22941868, z: 0.023712672, w: -0.9549625}
     speed: 2
-    m_Value: {x: -0.015653599, y: -0.3525811, z: -0.020151408, w: -0.9354333}
+    m_Value: {x: -0.18287534, y: -0.2310176, z: 0.02400414, w: -0.9553069}
   m_Size:
-    m_Target: 11.321873
+    m_Target: 23.798092
     speed: 2
-    m_Value: 11.321873
+    m_Value: 23.798092
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1396,7 +1396,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Resources - Trabalho/Cenario/Pedras
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1406,7 +1406,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 66
   m_LastFolders:
-  - Assets
+  - Assets/Resources - Trabalho/Cenario/Pedras
   m_LastFoldersGridSize: 66
   m_LastProjectPath: "C:\\Users\\G4m3r\\Documents\\Projeto de Imers\xE3o\\VRSteamTeste20260820"
   m_LockTracker:
@@ -1415,12 +1415,14 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 48086
+    - m_Data: 48538
     m_LastClickedID:
-      m_Data: 48086
+      m_Data: 48538
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 48086
+    - m_Data: 48214
+    - m_Data: 48520
+    - m_Data: 48540
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1454,7 +1456,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 48086
+    - m_Data: 48214
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1481,10 +1483,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 47942
-    m_LastClickedInstanceID: 47942
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 47496
     m_RenameOverlay:
