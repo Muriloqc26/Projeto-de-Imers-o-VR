@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -689,12 +689,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: -4614
+      m_SelectedIDs: []
       m_LastClickedID:
-        m_Data: -4614
+        m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1296
+      - m_Data: -94376
+      - m_Data: -81776
+      - m_Data: -79704
+      - m_Data: -78652
+      - m_Data: 86690
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1259,9 +1262,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 772.38965, y: 44.603, z: 303.04163}
+    m_Target: {x: 876.12994, y: 117.22559, z: 190.89749}
     speed: 2
-    m_Value: {x: 772.38965, y: 44.603, z: 303.04163}
+    m_Value: {x: 876.12994, y: 117.22559, z: 190.89749}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1307,20 +1310,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.21267813, y: -0.35019773, z: 0.08066212, w: 0.908678}
+    m_Target: {x: 0.122892864, y: -0.41274554, z: 0.054834124, w: 0.90098673}
     speed: 2
-    m_Value: {x: 0.21267043, y: -0.35018504, z: 0.080659196, w: 0.9086451}
+    m_Value: {x: 0.12152645, y: -0.41277674, z: 0.054208044, w: 0.90105957}
   m_Size:
-    m_Target: 84.21229
+    m_Target: 2.90396
     speed: 2
-    m_Value: 84.21229
+    m_Value: 2.90396
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 2
-    m_SpeedNormalized: 1
+    m_Speed: 1.4003006
+    m_SpeedNormalized: 0.7000003
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1396,7 +1399,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources - Trabalho/Scenes
+    - Assets/Resources - Trabalho/Cenario/Pedras/PedrasPrefab/Parede
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1406,7 +1409,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Resources - Trabalho/Scenes
+  - Assets/Resources - Trabalho/Cenario/Pedras/PedrasPrefab/Parede
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\steamvr\Documents\Projeto-de-Imers-o-VR\VRSteamTeste20260820
   m_LockTracker:
@@ -1415,13 +1418,16 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 6}
     m_SelectedIDs:
-    - m_Data: 59026
+    - m_Data: 102732
     m_LastClickedID:
-      m_Data: 59026
+      m_Data: 102732
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 57398
-    - m_Data: 57400
+    - m_Data: 93220
+    - m_Data: 93226
+    - m_Data: 93314
+    - m_Data: 102716
+    - m_Data: 102728
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1454,10 +1460,7 @@ MonoBehaviour:
     m_SelectedIDs: []
     m_LastClickedID:
       m_Data: 0
-    m_ExpandedIDs:
-    - m_Data: 0
-    - m_Data: 57398
-    - m_Data: 57400
+    m_ExpandedIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1484,10 +1487,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: -4614
-    m_LastClickedInstanceID: -4614
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 47496
     - m_Data: 61394
@@ -1516,7 +1518,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 44}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 363
