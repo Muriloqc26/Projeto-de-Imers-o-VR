@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -252,7 +252,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 0
+  m_LastSelected: 1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -689,15 +689,12 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 94422
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -94376
-      - m_Data: -81776
-      - m_Data: -79704
-      - m_Data: -78652
-      - m_Data: 86690
+      - m_Data: -78648
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1262,9 +1259,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 876.12994, y: 117.22559, z: 190.89749}
+    m_Target: {x: 880.1439, y: 118.4432, z: 187.19417}
     speed: 2
-    m_Value: {x: 876.12994, y: 117.22559, z: 190.89749}
+    m_Value: {x: 880.1439, y: 118.4432, z: 187.19417}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1297,7 +1294,7 @@ MonoBehaviour:
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 1, y: 1}
+      m_Size: {x: 0.01, y: 0.01}
     zGrid:
       m_Fade:
         m_Target: 0
@@ -1310,9 +1307,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.122892864, y: -0.41274554, z: 0.054834124, w: 0.90098673}
+    m_Target: {x: -0.09553734, y: -0.86209077, z: 0.18029645, w: -0.4641285}
     speed: 2
-    m_Value: {x: 0.12152645, y: -0.41277674, z: 0.054208044, w: 0.90105957}
+    m_Value: {x: -0.09482947, y: -0.8622526, z: 0.1789806, w: -0.46421322}
   m_Size:
     m_Target: 2.90396
     speed: 2
@@ -1399,7 +1396,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources - Trabalho/Cenario/Pedras/PedrasPrefab/Parede
+    - Assets/Resources - Trabalho/Cenario/Pedras
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1409,27 +1406,24 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Resources - Trabalho/Cenario/Pedras/PedrasPrefab/Parede
+  - Assets/Resources - Trabalho/Cenario/Pedras
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\steamvr\Documents\Projeto-de-Imers-o-VR\VRSteamTeste20260820
+  m_LastProjectPath: "C:\\Users\\G4m3r\\Documents\\Projeto de Imers\xE3o\\VRSteamTeste20260820"
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 6}
     m_SelectedIDs:
-    - m_Data: 102732
+    - m_Data: 94422
     m_LastClickedID:
-      m_Data: 102732
+      m_Data: 94422
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 93220
-    - m_Data: 93226
-    - m_Data: 93314
-    - m_Data: 102716
-    - m_Data: 102728
+    - m_Data: 93266
+    - m_Data: 93272
+    - m_Data: 94416
     - m_Data: 1000000000
-    - m_Data: 2147483647
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1487,8 +1481,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 94422
+    m_LastClickedInstanceID: 94422
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 47496
@@ -1518,7 +1513,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 44}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 363
@@ -1544,9 +1539,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 715
-    width: 1469
-    height: 271
+    y: 712
+    width: 1461
+    height: 274
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
