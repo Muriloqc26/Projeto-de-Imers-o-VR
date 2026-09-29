@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -728,16 +728,18 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 48264
       m_LastClickedID:
-        m_Data: 0
+        m_Data: 48264
       m_ExpandedIDs:
       - m_Data: -1292
-      - m_Data: 49342
+      - m_Data: 48264
+      - m_Data: 48362
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Delimitador de Parde (68)
+        m_OriginalName: Delimitador de Parde (68)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -745,10 +747,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: 0
+          m_Data: -1658
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -1298,9 +1300,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 846.33307, y: 106.422844, z: 194.62325}
+    m_Target: {x: 831.33044, y: 112.46612, z: 178.3224}
     speed: 2
-    m_Value: {x: 846.33307, y: 106.422844, z: 194.62325}
+    m_Value: {x: 831.33044, y: 112.46612, z: 178.3224}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1346,13 +1348,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.29170862, y: -0.044827443, z: 0.01667841, w: 0.95577854}
+    m_Target: {x: -0.031075943, y: 0.76270366, z: -0.04163415, w: -0.6451757}
     speed: 2
-    m_Value: {x: 0.29155296, y: -0.04624039, z: 0.017108306, w: 0.95528316}
+    m_Value: {x: -0.030220145, y: 0.7605723, z: -0.04038542, w: -0.6472908}
   m_Size:
-    m_Target: 31.800848
+    m_Target: 0.8660254
     speed: 2
-    m_Value: 31.800848
+    m_Value: 0.86602813
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1435,7 +1437,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Resources - Trabalho/Audio
+    - Assets/Resources - Trabalho/Cenario/Pedras/PedrasPrefab/Teto
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1445,24 +1447,25 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Resources - Trabalho/Audio
+  - Assets/Resources - Trabalho/Cenario/Pedras/PedrasPrefab/Teto
   m_LastFoldersGridSize: 96
   m_LastProjectPath: "C:\\Users\\G4m3r\\Documents\\Projeto de Imers\xE3o\\VRSteamTeste20260820"
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 48}
+    scrollPos: {x: 0, y: 108}
     m_SelectedIDs:
-    - m_Data: 61234
+    - m_Data: 60400
     m_LastClickedID:
-      m_Data: 61234
+      m_Data: 60400
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 58914
-    - m_Data: 58916
-    - m_Data: 58918
-    - m_Data: 58922
+    - m_Data: 58746
+    - m_Data: 58748
+    - m_Data: 58750
+    - m_Data: 58752
+    - m_Data: 58754
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1496,11 +1499,11 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 58914
-    - m_Data: 58916
-    - m_Data: 58918
-    - m_Data: 58920
-    - m_Data: 58922
+    - m_Data: 58746
+    - m_Data: 58748
+    - m_Data: 58750
+    - m_Data: 58752
+    - m_Data: 58754
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1527,12 +1530,14 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 48264
+    m_LastClickedInstanceID: 48264
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 47496
     - m_Data: 61394
+    - m_Data: 107114
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1645,7 +1650,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 185
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
