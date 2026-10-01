@@ -16,6 +16,7 @@ public class Caixa : MonoBehaviour
 
     private bool animandoTampa = false;
     private float tempoRestanteTampa;
+    private bool caixaAberta = false;
 
     //Chave Subir
     [SerializeField]
@@ -85,6 +86,11 @@ public class Caixa : MonoBehaviour
 
     public void TampaSelecionada(SelectEnterEventArgs args)
     {
+        if (caixaAberta)
+            return;
+
+        caixaAberta = true;
+
         Debug.Log("Tampa selecionada!");
 
         tempoRestanteTampa = tempoTampa;
@@ -96,11 +102,9 @@ public class Caixa : MonoBehaviour
         tempoRestantePorta = tempoPorta;
         animandoPorta = true;
 
-        tempoRestantePorta = tempoPorta;
-        animandoPorta = true;
-
         somPorta.Play();
 
+        textoAcaoConcluida.alpha = 1f;
         textoAcaoConcluida.text = mensagemAcaoConcluida;
         textoAcaoConcluida.gameObject.SetActive(true);
 
