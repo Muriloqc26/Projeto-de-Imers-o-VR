@@ -1,2 +1,2 @@
 # Projeto de Imersão
-Projeto de Imresão de VR
+Projeto de Imresão de VR - PUC-SP
